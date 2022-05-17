@@ -1,4 +1,7 @@
 ### Hi there 👋, It's Ozz Shafriri
+
+![link](https://github.com/ozzs/ozzs/blob/main/MyBanner.png)
+
 Hi, Ozz from Israel over here.
 Third-year computer science student at Afeka Academic College of Engineering in Tel-Aviv.
 I really enjoy learning web development independently, using languages and frameworks like React and Javascript.
