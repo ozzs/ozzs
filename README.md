@@ -1,6 +1,6 @@
 ![Banner](https://github.com/ozzs/ozzs/blob/main/MyBanner.png)
 
-# Hi there 👋, It's Ozz Shafriri
+# Hi there, It's Ozz Shafriri 👋
 
 Hi, Ozz from Israel over here.
 A third-year computer science student at Afeka Academic College of Engineering in Tel-Aviv.
