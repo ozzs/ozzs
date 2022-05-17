@@ -2,7 +2,7 @@
 
 # Hi there, It's Ozz Shafriri 👋
 
-Hi, Ozz from Israel over here.
+Hello, Ozz from Israel over here.
 A third-year computer science student at Afeka Academic College of Engineering in Tel-Aviv.
 I really enjoy learning web development independently, using languages and frameworks like React and Javascript.
 I also enjoy programming in Java, Python and C.
