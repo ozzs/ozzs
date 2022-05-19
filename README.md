@@ -15,6 +15,6 @@ I also enjoy programming in Java, Python and C.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ozzs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/ozz-shafriri-032ba2226/)  
 
 ## My Project
-Check out my latest React project - [Shopping List](https://github.com/ozzs/ShoppingList)
+Check out my latest React project - [Shopping List](https://github.com/ozzs/ShoppingList) :atom:
 
 ![shopping-list-banner](https://github.com/ozzs/ShoppingList/blob/main/ShoppingListBanner.png)
