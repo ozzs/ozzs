@@ -1,4 +1,4 @@
-![Banner](https://github.com/ozzs/ozzs/blob/main/MyBanner.png)
+![Banner](https://github.com/ozzs/ozzs/blob/main/MyBanner1.png)
 
 # Hi there, It's Ozz Shafriri 👋
 
