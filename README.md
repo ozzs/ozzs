@@ -8,9 +8,10 @@ I really enjoy learning web development independently, using languages and frame
 I also enjoy programming in Java, Python and C.
 
 ## Skills & Experience
-* ⚛️ React
+* ⚛️ React / React-Native
 * 💻 Python / Java / C
-* 🕸️ HTML / CSS / Javascript
+* 🕸️ HTML / CSS / Javascript / Typescript
+* :technologist: Unity
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ozzs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/ozz-shafriri-032ba2226/)  
 
