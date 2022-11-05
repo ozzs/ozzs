@@ -21,9 +21,9 @@ I also enjoy programming in Java, Python and C.
 
   - My go to jam when coding: rap or anime openings. depends on the mood. ⭐
   - Breaking Bad is the best show of all time. The Office is a close second. 📺
-  - Quote to live by:   ***“Great minds discuss ideas,
-                        Average minds discuss events,
-                        Small minds discuss people.”***
+  - Quote to live by:   ***“Great Minds Discuss Ideas,
+                        Average Minds Discuss Events,
+                        Small Minds Discuss People.”***
 
 
   
