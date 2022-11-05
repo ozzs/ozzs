@@ -1,7 +1,6 @@
 ![Banner](https://github.com/ozzs/ozzs/blob/main/MyBanner2.png)
 
 # Hi there, It's Ozz Shafriri! <img src="https://github.com/ozzs/ozzs/blob/main/wave.gif" width="30px">
-<br />
 
 Hello, Ozz from Israel over here.
 * I am a third-year computer science student at Afeka Academic College of Engineering in Tel-Aviv.
@@ -33,7 +32,10 @@ Hello, Ozz from Israel over here.
   <br><br>
 </details>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ozzs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/ozz-shafriri-032ba2226/)  
+<p align="center">
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ozzs)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/ozz-shafriri-032ba2226/)
+</p>
 
 ## My Projects
 :atom:   Check out my latest React project - [Shopping List](https://github.com/ozzs/ShoppingList)
