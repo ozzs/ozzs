@@ -36,8 +36,3 @@ Hello, Ozz from Israel over here.
   <a href="https://github.com/ozzs"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
   <a href="https://www.linkedin.com/in/ozz-shafriri/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 </p>
-
-## My Projects
-:atom:   Check out my latest React project - [Shopping List](https://github.com/ozzs/ShoppingList)
-
-![shopping-list-banner](https://github.com/ozzs/ShoppingList/blob/main/ShoppingListBanner.png)
