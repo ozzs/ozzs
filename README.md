@@ -1,11 +1,12 @@
 ![Banner](https://github.com/ozzs/ozzs/blob/main/MyBanner2.png)
 
-# Hi there, It's Ozz Shafriri <img src="https://github.com/ozzs/ozzs/blob/main/wave.gif" width="30px">
+# Hi there, It's Ozz Shafriri! <img src="https://github.com/ozzs/ozzs/blob/main/wave.gif" width="30px">
+<br />
 
 Hello, Ozz from Israel over here.
-A third-year computer science student at Afeka Academic College of Engineering in Tel-Aviv.
-I really enjoy learning web development independently, using languages and frameworks like React and Javascript.
-I also enjoy programming in Java, Python and C.
+* I am a third-year computer science student at Afeka Academic College of Engineering in Tel-Aviv.
+* I really enjoy learning web development independently, using languages and frameworks like React / React-Native and Javascript.
+* I also enjoy programming in Java, Python and C.
 
 ## Skills & Experience
 * ⚛️ React / React-Native
