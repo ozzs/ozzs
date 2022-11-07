@@ -3,7 +3,6 @@
 # Hi there, It's Ozz Shafriri! <img src="https://github.com/ozzs/ozzs/blob/main/wave.gif" width="30px">
 
 Hello, Ozz from Israel over here.
-* I am a third-year computer science student at Afeka Academic College of Engineering in Tel-Aviv.
 * I really enjoy learning web development independently, using languages and frameworks like React / React-Native and Javascript.
 * I also enjoy programming in Java, Python and C.
 
@@ -11,6 +10,7 @@ Hello, Ozz from Israel over here.
 * ⚛️ React / React-Native
 * 💻 Python / Java / C
 * 🕸️ HTML / CSS / Javascript / Typescript
+* ℹ️ SQLite, MySQL
 * :man_technologist: Node.js / Docker
 * :video_game: Unity + C#
 
@@ -19,7 +19,7 @@ Hello, Ozz from Israel over here.
   <br>
   <p><i>Alexa, play "Fly Away From Here" by Aerosmith 🎶</i><p>
 
-  - My go to jam when coding: rap or anime openings. depends on the mood. ⭐
+  - My go-to jam when coding: rap or anime openings. depends on the mood. ⭐
   - Breaking Bad is the best show of all time. The Office is a close second. 📺
   - Quote to live by:   ***“Great Minds Discuss Ideas,
                         Average Minds Discuss Events,
