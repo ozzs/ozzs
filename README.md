@@ -1,5 +1,6 @@
-
-<img alt="banner" src="https://github.com/ozzs/ozzs/blob/main/BannerGIF.gif" height="300"/>
+<p align="center">
+  <img alt="banner" src="https://github.com/ozzs/ozzs/blob/main/Banner.png"/>
+</p>
 
 # Hi there, It's Ozz Shafriri! <img src="https://github.com/ozzs/ozzs/blob/main/wave.gif" width="30px">
 
