@@ -1,4 +1,5 @@
-![Banner](https://github.com/ozzs/ozzs/blob/main/MyBanner2.png)
+
+<img alt="banner" src="https://github.com/ozzs/ozzs/blob/main/BannerGIF.gif" height="300"/>
 
 # Hi there, It's Ozz Shafriri! <img src="https://github.com/ozzs/ozzs/blob/main/wave.gif" width="30px">
 
