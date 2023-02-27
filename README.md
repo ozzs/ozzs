@@ -1,10 +1,13 @@
 <p align="center">
-  <img alt="banner" src="https://github.com/ozzs/ozzs/blob/main/Banner.png"/>
+  <img alt="banner" src="https://github.com/ozzs/ozzs/blob/main/TitleThumbnail.png"/> <br />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=5AACCF&center=true&vCenter=true&width=435&height=40&lines=Software+Engineer;Fullstack+Developer" alt="Typing SVG" /></a>
+
+
 </p>
 
-# Hi there, It's Ozz Shafriri! <img src="https://github.com/ozzs/ozzs/blob/main/wave.gif" width="30px">
+## Hey, Folks! <img src="https://github.com/ozzs/ozzs/blob/main/wave.gif" width="30px">
 
-Hello, Ozz from Israel over here 👐
+* My name is Ozz Shafriri and I'm from Israel 🤙🏻
 * I am a Fullstack Web Developer, specializing in React / React-Native and Javascript with Typescript
 * I also enjoy programming in Java, Python and C 👨🏽‍💻
 * The last book I read is _Warbreaker_ by Brandon Sanderson 📚
@@ -21,7 +24,7 @@ Hello, Ozz from Israel over here 👐
   - Favorite superhero: Spider-Man 🕷️
   - Quote to live by:   ***“Great Minds Discuss Ideas,
                         Average Minds Discuss Events,
-                        Small Minds Discuss People.”*** 👌
+                        Small Minds Discuss People.”*** 👌🏻
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=ozzs&show_icons=true&theme=nord)
   <br><br>
@@ -44,17 +47,7 @@ An ad-free, lightweight music player that lets you play music from your local li
 <p align="center">
 <img alt="showcase1" src="https://github.com/ozzs/monobox/blob/main/assets/media/Showcase1.gif" height="500"/>
 </p>
-<br />
-
-### Bank Heist 💰
-An FPS game inspired by the famous series "Money Heist" (La Casa De Papel), made with Unity Engine!
-<p align="center">
-  <img alt="BankHeistLogo" src="https://github.com/ozzs/bank-heist/blob/main/media/BankHeistPNG.png" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github.com/ozzs/bank-heist/blob/main/media/GameGIF.gif" width="500" />
-</p>
-<br />
+<br /><br />
 
 <p align="center">
   <a href="https://github.com/ozzs"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
