@@ -10,7 +10,7 @@
 * My name is Ozz Shafriri and I'm from Israel 🤙🏻
 * I am a Fullstack Web Developer, specializing in React / React-Native and Javascript with Typescript
 * I also enjoy programming in Java, Python and C 👨🏽‍💻
-* The last book I read is _The Lies of Locke Lamora_ by Scott Lynch 📚
+* The last book I read was _The Lies of Locke Lamora_ by Scott Lynch 📚
 * My SeriesGuide app currently contains over 200 shows 📺
 * Eevee best Pokémon.
 
