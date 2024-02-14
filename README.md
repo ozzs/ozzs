@@ -8,7 +8,7 @@
 ## Hey, Folks! <img src="https://github.com/ozzs/ozzs/blob/main/wave.gif" width="30px">
 
 * My name is Ozz Shafriri and I'm from Israel 🤙🏻
-* I am a Fullstack Web Developer, specializing in React / React-Native and Javascript with Typescript
+* I am a Fullstack Web Developer, specializing in React / React-Native and TypeScript
 * I also enjoy programming in Java, Python and C 👨🏽‍💻
 * The last book I read was _The Lies of Locke Lamora_ by Scott Lynch 📚
 * My SeriesGuide app currently contains over 200 shows 📺
